@@ -1,0 +1,5 @@
+D:\Pizza order\food ordering wesite thapa\Milan_Kumar\admin\index.php
+
+<?php include('partials-front/footer.php'); ?>
+
+<?php include('partials-front/menu.php'); ?>
